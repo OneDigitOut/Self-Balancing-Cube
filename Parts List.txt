@@ -1,0 +1,21 @@
+Parts List
+
+Part     Value                            
+
+BZ1      BUZZER           
+C1       100uf            
+C2       100uf            
+C3       100nf            
+CN1      JST_08                
+CN2      JST_08                  
+CN3      JST_08             
+CN4      2PSCREWTERMIANL  
+CN5      1X3MALEPINHEADER 
+CN6      JST_03           
+CN7      JST_04           
+IC1      LM7805           
+R1       6k8              
+R2       33k              
+R3       10k              
+T1       2N2222           
+U1       ESP32SDEVKIT     
